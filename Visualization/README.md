@@ -1,1 +1,6 @@
-<iframe src="./Depi_Graduation_project.pdf" width="100%" height="600px"></iframe>
+![Image 1](Image/Image1.png)
+![Image 2](Image/Image2.png)
+![Image 3](Image/Image3.png)
+![Image 4](Image/Image4.png)
+![Image 5](Image/Image5.png)
+![Image 6](Image/Image6.png)
